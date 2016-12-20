@@ -17,13 +17,13 @@ The installs must be performed as root for the defaults.
 
 4. Install pymongo
   * https://github.com/mongodb/mongo-python-driver
-  * cd <that_dir>
+  * cd that_dir
   * /usr/local/bin/python setup.py install
   * /usr/local/bin/python setup.py test
 
 5. Install Bottle
   * https://pypi.python.org/pypi/bottle/0.12.11
-  * extract file; cd <that_dir>
+  * extract file; cd that_dir
   * /usr/local/bin/python setup.py install
   * /usr/local/bin/python setup.py test
 
