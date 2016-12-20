@@ -7,7 +7,8 @@ Base
 The installs must be performed as root for the defaults.
 
 1. Sign up for the class
-   * https://university.mongodb.com
+  * https://university.mongodb.com
+  * Get started early with a google search: site:youtube.com m101p
 
 2. Install Python 2.7 into default /usr/local/bin
 
@@ -20,12 +21,15 @@ The installs must be performed as root for the defaults.
   * cd that_dir
   * /usr/local/bin/python setup.py install
   * /usr/local/bin/python setup.py test
+  * http://api.mongodb.com/python/current/tutorial.html
 
 5. Install Bottle
   * https://pypi.python.org/pypi/bottle/0.12.11
   * extract file; cd that_dir
   * /usr/local/bin/python setup.py install
   * /usr/local/bin/python setup.py test
+  * http://bottlepy.org/docs/0.12/
+
 
 
 
